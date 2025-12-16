@@ -1,8 +1,6 @@
 # Hello! 👋
 
-I'm **Chris Krough** — I build platforms that don't fall over at 3am.
-
-20+ years of keeping things running at Amazon, OJO Labs, RBC, Rackspace, and a few startups that kept me on my toes. These days I'm deep in the AI rabbit hole, building with LLMs and finally understanding what all those linear algebra classes were for.
+I'm **Chris Krough**. Always building.
 
 ## `$ whoami`
 
