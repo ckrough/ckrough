@@ -16,6 +16,7 @@ I'm **Chris Krough**. Always building.
 
 🚀 [**Drover**](https://github.com/ckrough/drover) — AI application for knowledge classification and organization
 🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals) — Strategic decisions via Claude AI Skills
+🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner) — Because deleting Glacier vaults shouldn't be painful
 
 ## `$ git log --oneline aws/`
 
@@ -23,7 +24,6 @@ Contributions from my Amazon days:
 - [AWS Service Operator](https://github.com/amazon-archives/aws-service-operator) — Kubernetes CRDs for AWS
 - [AWS VPN Controller](https://github.com/awslabs/aws-vpn-controller) — K8s controller for VPN management
 - [AWS EKS Cluster Controller](https://github.com/awslabs/aws-eks-cluster-controller) — Multi-cluster EKS management
-- [AWS Glacier Cleaner](https://github.com/ckrough/aws-glacier-cleaner) — Because deleting Glacier vaults shouldn't be painful
 
 ## `$ cat current_focus.txt`
 
