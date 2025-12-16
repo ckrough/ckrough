@@ -4,7 +4,7 @@ I'm **Chris Krough**. Always building.
 
 ## `$ whoami`
 
-🔧 **Engineering Leader** shaping engineering orgs, platform architecture, cloud infrastructure<br>
+🔧 **Engineering Leader** shaping engineering orgs, platform architecture, cloud infrastructure<br/>
 ☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
@@ -14,13 +14,13 @@ I'm **Chris Krough**. Always building.
 
 ## `$ ls projects/`
 
-🚀 [**Drover**](https://github.com/ckrough/drover) — AI application for knowledge classification and organization
-🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals) — Strategic decisions via Claude AI Skills
-🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner) — Because deleting Glacier vaults shouldn't be painful
+🚀 [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization<br/>
+🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills<br/>
+🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful
 
 ## `$ cat current_focus.txt`
 
-📚 Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) — neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
+📚 Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) learning neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
 
 ## `$ git log --oneline aws/`
 
@@ -31,7 +31,7 @@ Contributions from my Amazon days:
 
 ## `$ cat /etc/hobbies`
 
-🐕 Volunteering with [Friends of Homeless Animals](https://www.foha.org/) — dog rescue & adoption
+🐕 Volunteering with [Friends of Homeless Animals](https://www.foha.org/) — dog rescue & adoption<br/>
 🔭 Former telescope wrangler at the [Austin Astronomical Society](https://austinastro.org)
 
 ## `$ ping`
