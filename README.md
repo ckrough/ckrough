@@ -4,7 +4,7 @@ I'm **Chris Krough**. Always building.
 
 ## `$ whoami`
 
-🔧 **Engineering Leader** — engineering orgs, platform architecture, cloud infrastructure<br>
+🔧 **Engineering Leader** shaping engineering orgs, platform architecture, cloud infrastructure<br>
 ☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
@@ -18,16 +18,16 @@ I'm **Chris Krough**. Always building.
 🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals) — Strategic decisions via Claude AI Skills
 🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner) — Because deleting Glacier vaults shouldn't be painful
 
+## `$ cat current_focus.txt`
+
+📚 Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) — neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
+
 ## `$ git log --oneline aws/`
 
 Contributions from my Amazon days:
 - [AWS Service Operator](https://github.com/amazon-archives/aws-service-operator) — Kubernetes CRDs for AWS
 - [AWS VPN Controller](https://github.com/awslabs/aws-vpn-controller) — K8s controller for VPN management
 - [AWS EKS Cluster Controller](https://github.com/awslabs/aws-eks-cluster-controller) — Multi-cluster EKS management
-
-## `$ cat current_focus.txt`
-
-📚 Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) — neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
 
 ## `$ cat /etc/hobbies`
 
