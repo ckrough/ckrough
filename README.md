@@ -4,7 +4,7 @@ I'm **Chris Krough**. Always building.
 
 ## `$ whoami`
 
-🔧 **Engineering Leader** — engineering orgs, platform architecture, cloud infrastructure
+🔧 **Engineering Leader** — engineering orgs, platform architecture, cloud infrastructure<br>
 ☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
