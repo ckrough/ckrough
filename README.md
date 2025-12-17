@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Chris Krough**. Always building.
+I'm **Chris Krough**.
 
 ## `$ whoami`
 
