@@ -1,6 +1,8 @@
 # Hello! 👋
 
-I'm **Chris Krough**.
+I'm **Chris Krough**. `ckrough` on all socials. 
+
+<br/>_[keybase Identities](https://keybase.io/ckrough)_
 
 ## `$ whoami`
 
