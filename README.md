@@ -15,8 +15,9 @@ I'm **Chris Krough**.
 ## `$ ls projects/`
 
 🚀 [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization<br/>
+🛠️ [**Workspaces**](https://github.com/ckrough/workspaces): Shell utilities for fast AI-automated management of git worktrees with Python virtual environments. Great for isolating parallel agentic development.
 🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills<br/>
-🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful
+🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful<br/>
 
 ## `$ cat current_focus.txt`
 
