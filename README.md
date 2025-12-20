@@ -7,8 +7,8 @@ I'm **Chris Krough**, `ckrough` on the socials.
 
 ## `$ whoami`
 
-🔧 **Engineering Leader** shaping engineering orgs, development workflows, and platform architectures<br/>
-🐾 **Animal Advocate** fostering, training, and walking rescue dogs (and tending to cats)<br/>
+🔧 **Engineering Leader** shaping organizations, development workflows, and platform architectures<br/>
+🐾 **Animal Friend** fostering, training, and walking rescue dogs (and tending to cats)<br/>
 ☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
