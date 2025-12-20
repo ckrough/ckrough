@@ -10,14 +10,15 @@ I'm **Chris Krough**. `ckrough` on all socials.
 ☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
-- Migrated 200+ services across 6 cloud environments with zero downtime
-- Scaled a platform through 6,700% revenue growth and $3B in transactions
-- Built telemetry across 150+ Kubernetes clusters on 3 continents
+- Refactored engineering platforms for developer experience, reliability, and security.
+- Migrated hundreds of services across half a dozen cloud environments with zero downtime
+- Scaled a platform through >6,000% revenue growth and $3B in transactions
+- Built telemetry across hundreds of Kubernetes clusters on multiple continents
 
 ## `$ ls projects/`
 
 🚀 [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization<br/>
-🛠️ [**Workspaces**](https://github.com/ckrough/workspaces): Shell utilities for fast AI-automated management of git worktrees with Python virtual environments. Great for isolating parallel agentic development.<br/>
+🛠️ [**Workspaces**](https://github.com/ckrough/workspaces): Shell utilities for agentic development using git worktrees with Python virtual environments. <br/>
 🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills<br/>
 🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful<br/>
 
