@@ -9,7 +9,7 @@ I'm **Chris Krough**, `ckrough` on the socials.
 
 🔧 **Engineering Leader** shaping engineering orgs, development workflows, and platform architectures<br/>
 🐾 **Animal Advocate** fostering, training, and walking rescue dogs (and tending to cats)<br/>
-☕ **Fueled by** optimizing and refining complex systems (people or tech) and the occasional mass migration
+☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
 - Refactored engineering platforms to improve developer experience, reliability, and security.
@@ -18,13 +18,13 @@ I'm **Chris Krough**, `ckrough` on the socials.
 - Built telemetry across hundreds of Kubernetes clusters on multiple continents
 
 **Career**
-- **RBCx** — Led platform through acquisitions; 200 services migrated, 99.99% uptime maintained
-- **OJO Labs** — Scaled infrastructure through 6,700% revenue growth and $3B in transactions
-- **Amazon** — EKS beta tester; built telemetry across 150+ K8s clusters on three continents
-- **uStudio** — Transformed engineering org into full-stack DevOps culture
-- **Bazaarvoice** — 50K req/sec, 30B monthly pageviews; datacenter-to-cloud migration
-- **Rackspace** — Global network ops across 10 data centers, 1M+ metrics/sec
-- **Penn Vet (New Bolton Center)** — Veterinary medical systems; built the data center, ran the networks
+- **RBCx** Led platform through acquisitions; 200 services migrated, 99.99% uptime maintained
+- **OJO Labs** Scaled infrastructure through 6,700% revenue growth and $3B in transactions
+- **Amazon** EKS beta tester; built telemetry across 150+ K8s clusters on three continents
+- **uStudio** Transformed engineering org into full-stack DevOps culture
+- **Bazaarvoice** 50K req/sec, 30B monthly pageviews; datacenter-to-cloud migration
+- **Rackspace** Global network ops across 10 data centers, 1M+ metrics/sec
+- **Penn Vet (New Bolton Center)** Veterinary medical systems; built the data center, ran the networks
 
 ## `$ cat ~/.skills`
 
@@ -49,20 +49,20 @@ I'm **Chris Krough**, `ckrough` on the socials.
 ## `$ git log --oneline aws/`
 
 Contributions from my Amazon days:
-- [AWS Service Operator](https://github.com/amazon-archives/aws-service-operator) — Kubernetes CRDs for AWS
-- [AWS VPN Controller](https://github.com/awslabs/aws-vpn-controller) — K8s controller for VPN management
-- [AWS EKS Cluster Controller](https://github.com/awslabs/aws-eks-cluster-controller) — Multi-cluster EKS management
+- [AWS Service Operator](https://github.com/amazon-archives/aws-service-operator) Kubernetes CRDs for AWS
+- [AWS VPN Controller](https://github.com/awslabs/aws-vpn-controller) K8s controller for VPN management
+- [AWS EKS Cluster Controller](https://github.com/awslabs/aws-eks-cluster-controller) Multi-cluster EKS management
 
 ## `$ cat /etc/hobbies`
 
-🐕 Volunteering with [Friends of Homeless Animals](https://www.foha.org/) — dog rescue & adoption<br/>
+🐕 Volunteering with [Friends of Homeless Animals](https://www.foha.org/) dog rescue & adoption<br/>
 🔭 Former telescope wrangler at the [Austin Astronomical Society](https://austinastro.org)<br/>
 📷 Outdoor and nature photography
 
 ## `$ echo $OPEN_TO`
 
-🟢 **AI Transformation Consulting** — Helping small businesses without tech teams adopt agentic AI solutions. I interview stakeholders, assess workflows, build custom tools, and provide ongoing hosting and vendor support. From "we use spreadsheets" to "AI handles that now."<br/>
-🔵 **Fractional Engineering Leadership** — Part-time platform engineering, infrastructure, and security leadership for growing teams. I've scaled platforms through 6,000% growth; I can help you build the foundation for yours.
+🟢 **AI Transformation Consulting** Helping small businesses without tech teams adopt agentic AI solutions. I interview stakeholders, assess workflows, build custom tools, and provide ongoing hosting and vendor support. From "we use spreadsheets" to "AI handles that now."<br/>
+🔵 **Fractional Engineering Leadership** Part-time platform engineering, infrastructure, and security leadership for growing teams. I've scaled platforms through 6,000% growth; I can help you build the foundation for yours.
 
 ## `$ ping`
 
