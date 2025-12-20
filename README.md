@@ -15,6 +15,13 @@ I'm **Chris Krough**. `ckrough` on all socials.
 - Scaled a platform through >6,000% revenue growth and $3B in transactions
 - Built telemetry across hundreds of Kubernetes clusters on multiple continents
 
+**Companies**
+- Amazon
+- OJO Labs
+- Bazaarvoice
+- Rackspace Global Network Operations
+- University of Pennsylvania
+
 ## `$ ls projects/`
 
 🚀 [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization<br/>
