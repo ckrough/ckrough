@@ -6,7 +6,7 @@ I'm **Chris Krough**. `ckrough` on all socials.
 
 ## `$ whoami`
 
-🔧 **Engineering Leader** shaping engineering orgs, platform architecture, cloud infrastructure<br/>
+🔧 **Engineering Leader** shaping engineering orgs, development workflows, and platform architecture<br/>
 ☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
