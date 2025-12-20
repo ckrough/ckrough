@@ -18,13 +18,13 @@ I'm **Chris Krough**, `ckrough` on the socials.
 - Built telemetry across hundreds of Kubernetes clusters on multiple continents
 
 **Career**
-- **RBCx**: Led platform through acquisitions; 100s of services migrated, >99.999% uptime
-- **OJO Labs**: Scaled platform through 6,700% revenue growth and $3B in transactions
-- **Amazon**: AWS Labs, EKS beta tester; automated 150+ K8s clusters over three continents
-- **uStudio**: Transformed engineering org into full-stack devops culture
-- **Bazaarvoice**: 50K req/sec, 30B monthly pageviews; datacenter-to-cloud migration
-- **Rackspace**: Global network ops across 10 data centers, 1M+ metrics/sec
-- **Penn Vet (New Bolton Center)**: Veterinary medical systems; built  data center, ran networks
+- **[RBCx](https://www.rbcx.com)**: Led platform through acquisitions; 100s of services migrated, >99.999% uptime
+- **[OJO Labs](https://www.ojo.com)**: Scaled platform through 6,700% revenue growth and $3B in transactions
+- **[Amazon](https://aws.amazon.com/)**: AWS Labs, EKS beta tester; automated 150+ K8s clusters over three continents
+- **[uStudio](https://ustudio.com)**: Transformed engineering org into full-stack devops culture
+- **[Bazaarvoice](https://www.bazaarvoice.com)**: 50K req/sec, 30B monthly pageviews; datacenter-to-cloud migration
+- **[Rackspace](https://www.rackspace.com)**: Global network ops across 10 data centers, 1M+ metrics/sec
+- **[University of Pennsylvania](https://www.vet.upenn.edu)**: Veterinary medical systems; built  data center, ran networks
 
 ## `$ cat ~/.skills`
 
