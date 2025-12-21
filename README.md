@@ -5,7 +5,7 @@
 
 I'm **Chris Krough**, `ckrough` on the socials.
 
-## `$ whoami`
+## `Who I Am`
 
 **Engineering Leader** shaping engineering orgs, development workflows, and platform architectures<br/>
 **Animal Advocate** fostering, training, and walking rescue dogs (and tending to cats)<br/>
@@ -26,7 +26,7 @@ I'm **Chris Krough**, `ckrough` on the socials.
 - **[Rackspace](https://www.rackspace.com)**: Global network ops across 10 data centers, 1M+ metrics/sec
 - **[University of Pennsylvania](https://www.vet.upenn.edu)**: Veterinary medical systems; built  data center, ran networks
 
-## `$ cat ~/.skills`
+## `Skills`
 
 **Workflow:** Agentic Development · Agent Skills · Context Engineering <br/>
 **AI/ML:** RAG Systems · LangChain · Prompt Engineering · Deep Learning <br/>
@@ -34,7 +34,7 @@ I'm **Chris Krough**, `ckrough` on the socials.
 **Platforms:** Kubernetes · Docker · AWS <br/>
 **Domains:** Developer Experience · Platform Engineering · Reliability · Security
 
-## `$ ls projects/`
+## `Projects`
 
 - [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization
 - [**Retriever**](https://github.com/ckrough/retriever): RAG-powered Q&A system for organizational documents with source citations
@@ -42,29 +42,29 @@ I'm **Chris Krough**, `ckrough` on the socials.
 - [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills
 - [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful
 
-## `$ cat current_focus.txt`
+## `Current Focus`
 
 Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) learning neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
 
-## `$ git log --oneline aws/`
+## `Other Contributions`
 
 Contributions from my Amazon days:
 - [AWS Service Operator](https://github.com/amazon-archives/aws-service-operator) Kubernetes CRDs for AWS
 - [AWS VPN Controller](https://github.com/awslabs/aws-vpn-controller) K8s controller for VPN management
 - [AWS EKS Cluster Controller](https://github.com/awslabs/aws-eks-cluster-controller) Multi-cluster EKS management
 
-## `$ cat /etc/hobbies`
+## `Hobbies`
 
 - Volunteering with [Friends of Homeless Animals](https://www.foha.org/) dog rescue & adoption
 - Former telescope wrangler at the [Austin Astronomical Society](https://austinastro.org)
 - Outdoor and nature photography
 
-## `$ echo $OPEN_TO`
+## `Open To`
 
 **AI Transformation Consulting** — Helping small businesses without tech teams adopt agentic AI solutions. I interview stakeholders, assess workflows, build custom tools, and provide ongoing hosting and vendor support. From "we use spreadsheets" to "AI handles that now."
 
 **Fractional Engineering Leadership** — Part-time platform engineering, infrastructure, and security leadership for growing teams. I've scaled platforms through 6,000% growth; I can help you build the foundation for yours.
 
-## `$ ping`
+## `Contact`
 
 [LinkedIn](https://www.linkedin.com/in/ckrough/) · [dev@krough.org](mailto:dev@krough.org) · [ckrough.github.io](https://ckrough.github.io)
