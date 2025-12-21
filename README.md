@@ -1,15 +1,15 @@
 ![Caprock Canyon at sunset with moon rising, Quitaque, TX](assets/banner.jpg)
-<sub>📷 Caprock Canyon, Quitaque, TX</sub>
+<sub>Caprock Canyon, Quitaque, TX</sub>
 
-# Hello! 👋
+# Hello!
 
 I'm **Chris Krough**, `ckrough` on the socials.
 
 ## `$ whoami`
 
-🔧 **Engineering Leader** shaping engineering orgs, development workflows, and platform architectures<br/>
-🐾 **Animal Advocate** fostering, training, and walking rescue dogs (and tending to cats)<br/>
-☕ **Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
+**Engineering Leader** shaping engineering orgs, development workflows, and platform architectures<br/>
+**Animal Advocate** fostering, training, and walking rescue dogs (and tending to cats)<br/>
+**Fueled by** optimizing complex systems (people or tech) and the occasional mass migration
 
 **Some things I've done:**
 - Refactored engineering platforms to improve developer experience, reliability, and security.
@@ -36,15 +36,15 @@ I'm **Chris Krough**, `ckrough` on the socials.
 
 ## `$ ls projects/`
 
-🚀 [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization<br/>
-🔍 [**Retriever**](https://github.com/ckrough/retriever): RAG-powered Q&A system for organizational documents with source citations<br/>
-🛠️ [**Workspaces**](https://github.com/ckrough/workspaces): Utilities for parallel agentic development using worktrees and venvs. <br/>
-🤖 [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills<br/>
-🧹 [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful<br/>
+- [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization
+- [**Retriever**](https://github.com/ckrough/retriever): RAG-powered Q&A system for organizational documents with source citations
+- [**Workspaces**](https://github.com/ckrough/workspaces): Utilities for parallel agentic development using worktrees and venvs
+- [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills
+- [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful
 
 ## `$ cat current_focus.txt`
 
-📚 Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) learning neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
+Working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng) learning neural nets, CNNs, sequence models, Transformers. Building AI apps with PyTorch, TensorFlow, and LangChain.
 
 ## `$ git log --oneline aws/`
 
@@ -55,17 +55,16 @@ Contributions from my Amazon days:
 
 ## `$ cat /etc/hobbies`
 
-🐕 Volunteering with [Friends of Homeless Animals](https://www.foha.org/) dog rescue & adoption<br/>
-🔭 Former telescope wrangler at the [Austin Astronomical Society](https://austinastro.org)<br/>
-📷 Outdoor and nature photography
+- Volunteering with [Friends of Homeless Animals](https://www.foha.org/) dog rescue & adoption
+- Former telescope wrangler at the [Austin Astronomical Society](https://austinastro.org)
+- Outdoor and nature photography
 
 ## `$ echo $OPEN_TO`
 
-🟢 **AI Transformation Consulting** -> Helping small businesses without tech teams adopt agentic AI solutions. I interview stakeholders, assess workflows, build custom tools, and provide ongoing hosting and vendor support. From "we use spreadsheets" to "AI handles that now."<br/>
-🔵 **Fractional Engineering Leadership** -> Part-time platform engineering, infrastructure, and security leadership for growing teams. I've scaled platforms through 6,000% growth; I can help you build the foundation for yours.
+**AI Transformation Consulting** — Helping small businesses without tech teams adopt agentic AI solutions. I interview stakeholders, assess workflows, build custom tools, and provide ongoing hosting and vendor support. From "we use spreadsheets" to "AI handles that now."
+
+**Fractional Engineering Leadership** — Part-time platform engineering, infrastructure, and security leadership for growing teams. I've scaled platforms through 6,000% growth; I can help you build the foundation for yours.
 
 ## `$ ping`
 
-💼 [LinkedIn](https://www.linkedin.com/in/ckrough/) · ✉️ [dev@krough.org](mailto:dev@krough.org) · 🌐 [ckrough.github.io](https://ckrough.github.io)
-
-Byeeee! 🤙🏽
+[LinkedIn](https://www.linkedin.com/in/ckrough/) · [dev@krough.org](mailto:dev@krough.org) · [ckrough.github.io](https://ckrough.github.io)
