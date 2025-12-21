@@ -36,9 +36,9 @@ I'm **Chris Krough**, `ckrough` on the socials.
 
 ## `Projects`
 
-- [**Drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization
-- [**Retriever**](https://github.com/ckrough/retriever): RAG-powered Q&A system for organizational documents with source citations
-- [**Workspaces**](https://github.com/ckrough/workspaces): Utilities for parallel agentic development using worktrees and venvs
+- [**drover**](https://github.com/ckrough/drover): AI application for knowledge classification and organization
+- [**retriever**](https://github.com/ckrough/retriever): RAG-powered Q&A system for organizational documents with source citations
+- [**agentspaces**](https://github.com/ckrough/agentspaces): CLI for managing isolated git worktrees for AI coding agents. Parallel development with auto-configured Python environments.
 - [**Team of Rivals**](https://github.com/ckrough/team-of-rivals): Strategic decisions via Claude AI Skills
 - [**AWS Glacier Cleaner**](https://github.com/ckrough/aws-glacier-cleaner): Because deleting Glacier vaults shouldn't be painful
 
