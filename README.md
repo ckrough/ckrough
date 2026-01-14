@@ -39,7 +39,7 @@ Building AI tooling and diving deep on LLM evaluation frameworks. Working throug
 
 ## Stack
 
-**AI/ML:** RAG · LangChain · Prompt Engineering · Deep Learning<br/>
+**AI/ML:** RAG · Agentic Workflows · Prompt Engineering · Deep Learning<br/>
 **Languages:** Python · Go · Bash<br/>
 **Platforms:** Kubernetes · Docker · AWS<br/>
 **Domains:** Platform Engineering · Developer Experience · Reliability
