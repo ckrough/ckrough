@@ -46,4 +46,4 @@ Building AI tooling and diving deep on LLM evaluation frameworks. Working throug
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/ckrough/) · [dev@krough.org](mailto:dev@krough.org) · [ckrough.github.io](https://ckrough.github.io)
+[LinkedIn](https://www.linkedin.com/in/ckrough/) · [dev@krough.org](mailto:dev@krough.org) · [dev.krough.org](https://dev.krough.org)
