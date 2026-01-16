@@ -25,13 +25,13 @@ Engineering leader with 25+ years building platforms, scaling teams, and migrati
 
 Building AI tooling and diving deep on LLM evaluation frameworks. Working through Andrew Ng's [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
-**Projects:**
+**Current Projects:**
 - [retriever](https://github.com/ckrough/retriever) — RAG-powered Q&A with source citations and answer verification
 - [drover](https://github.com/ckrough/drover) — AI document classification using LLMs
 - [team-of-rivals](https://github.com/ckrough/team-of-rivals) — Strategic decisions via Claude AI Skills
 - **agentspaces** — Agentic development environment with isolated worktrees, dependency management, and CI integration (private)
 
-## Open Source from Amazon Days
+**Other Open Source**
 
 - [AWS Service Operator](https://github.com/amazon-archives/aws-service-operator) — Kubernetes CRDs for AWS
 - [AWS VPN Controller](https://github.com/awslabs/aws-vpn-controller) — K8s controller for VPN management
