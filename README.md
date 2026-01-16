@@ -3,7 +3,7 @@
 
 # Chris Krough
 
-Engineering leader with 20 years building platforms, scaling teams, and migrating things.
+Engineering leader with 25+ years building platforms, scaling teams, and migrating things.
 
 ## What I've Built
 
