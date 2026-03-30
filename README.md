@@ -7,7 +7,7 @@ Engineering leader with 25+ years building platforms, scaling teams, and migrati
 
 ## What I've Built
 
-- Platforms that scaled through >6,000% revenue growth and $3B in transactions
+- Platforms that scaled through >6,000% revenue growth and billions in transactions
 - Telemetry systems across hundreds of Kubernetes clusters on multiple continents
 - Migration initiatives that moved hundreds of services across cloud environments with zero downtime
 - Custom Kubernetes controllers for fleet management at Amazon scale
